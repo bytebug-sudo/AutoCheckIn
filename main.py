@@ -42,7 +42,7 @@ headers = {
 }
 # 用户list
 users = {
-    'login_params: {
+    'login_params': {
         'openid': '',
         'studentno': '',
         'time': ''
